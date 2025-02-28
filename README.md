@@ -1,13 +1,13 @@
 <h1>XO Game (.NET C#)</h1>
 <dr></dr>
 Description
-A simple XO (Tic-Tac-Toe) game implemented using C# and .NET. This project demonstrates basic game logic, user interaction, and UI handling in a console or Windows Forms application.
+A simple Puzzel game implemented using C# and .NET. This project demonstrates basic game logic, user interaction, and UI handling in a console or Windows Forms application.
 
 Features
 
-Two-player mode
+Using OOP (object orianted programming)
 
-Simple UI with C# Console or Windows Forms
+Simple UI with C# Windows Forms
 
 Game logic validation (win/draw conditions)
 
